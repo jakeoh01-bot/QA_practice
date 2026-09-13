@@ -14,5 +14,5 @@ jobs:
       - name: Print message
         run: echo "Hello, Jake! Workflow is running."
 
-      - name: List files
-        run: ls -la
+      - name: Check file exists
+        run: test -f Trip_Summary.md && echo "File found"
