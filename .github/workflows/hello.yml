@@ -17,3 +17,10 @@ jobs:
 
       - name: Check file exists
         run: test -f Trip_Summary.md && echo "File found"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run check script
+        run: python check_trip.py
