@@ -15,4 +15,4 @@ jobs:
         run: echo "Hello, Jake! Workflow is running."
 
       - name: Check file exists
-        run: test -f Trip_Summary.md && echo "File found"
+        run: test -f NoSuchFile.md && echo "File found"
