@@ -5,3 +5,4 @@
 | LA & Palm Springs | 8/20-8/28 | 약 4,387 |
 | Kona, Hawaii | - | 4,952.74 |
 | LA | 2022/1/29-2/5 | 약 4,148 |
+Add expense breakdown, closes #1
