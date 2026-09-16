@@ -1,5 +1,4 @@
-# QA_practice
-My first practice repository
+
 # QA_practice
 
 GitHub 연습용 repository입니다.
